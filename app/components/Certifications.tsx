@@ -39,6 +39,7 @@ const CERTIFICATIONS: Certification[] = [
     issuer: "MongoDB",
     issued: "Issued Jun 2026",
     credentialId: "37f772a5-d09d-44c1-8fff-102d1cdff36e",
+    url: "https://www.credly.com/badges/37f772a5-d09d-44c1-8fff-102d1cdff36e/linked_in_profile"
   },
   {
     title: "AI Engineer for Developers Associate",
@@ -65,13 +66,13 @@ const CERTIFICATIONS: Certification[] = [
       "Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn",
     issuer: "Microsoft",
     issued: "Issued Oct 2025",
-    url: "https://www.linkedin.com/learning/certificates/ef07788a6f2d31ffa9c76806ae32f54a05831daa126acc0bcc89b7e412cf989f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxU3NK%2FTXQxG61Mpy6E9QQQ%3D%3D",
+    url: "https://www.linkedin.com/learning/certificates/ef07788a6f2d31ffa9c76806ae32f54a05831daa126acc0bcc89b7e412cf989f",
   },
   {
     title: "Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure",
     issuer: "LinkedIn",
     issued: "Issued Oct 2025",
-    url: "https://www.linkedin.com/learning/certificates/f1e73a213d9580c4754c0d3686b06c1974c52efe91fb3d19b9ca68b6595292d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxU3NK%2FTXQxG61Mpy6E9QQQ%3D%3D",
+    url: "https://www.linkedin.com/learning/certificates/f1e73a213d9580c4754c0d3686b06c1974c52efe91fb3d19b9ca68b6595292d8",
   },
   {
     title: "Introduction to Git",
@@ -83,33 +84,33 @@ const CERTIFICATIONS: Certification[] = [
     title: "Introduction to R",
     issuer: "DataCamp",
     issued: "Issued Sep 2025",
-    url: "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.datacamp.com%2Fcompleted%2Fstatement-of-accomplishment%2Fcourse%2F1709b581e3a71c13ce6a9b03d6c024bc219106af&urlhash=oJGp&mt=1_NfD2E1RstcXEzg2IAupoqR0fl8UR9g9nGlu8gkZOmTXccmpWD0JvfZzQrZfYGVyP99UiTcRsa_eJwdLoABkrXjUyHU&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxU3NK%2FTXQxG61Mpy6E9QQQ%3D%3D",
+    url: "https://www.datacamp.com/completed/statement-of-accomplishment/course/1709b581e3a71c13ce6a9b03d6c024bc219106af",
   },
   {
     title: "Tata - GenAI Powered Data Analytics Job Simulation",
     issuer: "Forage",
     issued: "Issued Aug 2025",
     credentialId: "YTRyWojvGAtxfBD5T",
-    url: "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fforage-uploads-prod.s3.amazonaws.com%2Fcompletion-certificates%2FifobHAoMjQs9s6bKS%2FgMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_4KXRExuxr4fcnzixQ_1755085471501_completion_certificate.pdf&urlhash=V7MK&mt=pSv-7-dxJnBnrM32TOoJH66wBOOlUeSpSMPuSgOfDs0H3opLbM9PeWEq8z-9OdDz3GmIbPiaUVYzz0FtzBET_AR4F5YG&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxU3NK%2FTXQxG61Mpy6E9QQQ%3D%3D",
+    url: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_4KXRExuxr4fcnzixQ_1755085471501_completion_certificate.pdf",
   },
   {
     title: "Python",
     issuer: "GeeksforGeeks",
     issued: "Issued Apr 2025",
-    url: "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fcourses%2Fcertificates%2Ff3d8a040bdbc5d9c10095ddb2dd92fde.pdf&urlhash=HGED&mt=4XzC1O0kGKypVeQ-pxhQMCYGxl7z-gwNv5K_CSEYDKr0YcO4MfNuGX1rdgEBp1M5gUTIi10j1LF-FNm3pXbQJi1Fjvi7&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxU3NK%2FTXQxG61Mpy6E9QQQ%3D%3D",
+    url: "https://media.geeksforgeeks.org/courses/certificates/f3d8a040bdbc5d9c10095ddb2dd92fde.pdf",
   },
   {
     title: "Java",
     issuer: "HackerRank",
     issued: "Issued Jun 2020",
-    url: "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2F695dfe3fcae7&urlhash=bbma&mt=L9NzMuLPiWupA7A--4QIrVFgetTMxBcjkOXVRRkZ0CYr1O5PEcAU0tkSbPgu-7LCgA693sPl_a65eLHqpqcW7f3U1ad4&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxU3NK%2FTXQxG61Mpy6E9QQQ%3D%3D",
+    url: "https://www.hackerrank.com/certificates/695dfe3fcae7",
   },
   {
     title: "Project: Deep Learning Inference with Azure ML Studio",
     issuer: "Coursera",
     issued: "Issued Mar 2020",
     credentialId: "9FMZP4PYTTW9",
-    url: "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2F9FMZP4PYTTW9&urlhash=PJSH&mt=rI5LZgXHtger84sbZViY4BzX-NhCmN-GdnQ3ytCI-0faT_GCfoo8a7t6g6RIewtI8Mlva993OyBnh7vMsIu6KfBjwvm1&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxU3NK%2FTXQxG61Mpy6E9QQQ%3D%3D",
+    url: "https://www.coursera.org/account/accomplishments/verify/9FMZP4PYTTW9",
   },
 ];
 
