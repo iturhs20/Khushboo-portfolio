@@ -3,6 +3,7 @@ import EducationSection from "../app/components/Education";
 import ExperienceSection from "./components/Experience";
 import PublicationsSection from "./components/Publication";
 import CertificationsSection from "./components/Certifications";
+import TechnologiesSection from "./components/Technologies";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
     <ExperienceSection />
     <PublicationsSection />
     <CertificationsSection />
+    <TechnologiesSection />
     </>
   );
 }
