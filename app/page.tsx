@@ -4,6 +4,7 @@ import ExperienceSection from "./components/Experience";
 import PublicationsSection from "./components/Publication";
 import CertificationsSection from "./components/Certifications";
 import TechnologiesSection from "./components/Technologies";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
     <PublicationsSection />
     <CertificationsSection />
     <TechnologiesSection />
+    <Footer />
     </>
   );
 }

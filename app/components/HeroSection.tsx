@@ -29,8 +29,8 @@ const body = Plus_Jakarta_Sans({
 const PORTRAIT_URL =
   "https://media.licdn.com/dms/image/v2/D4D03AQGE9BAtGZoEmA/profile-displayphoto-crop_800_800/B4DZy2XTY.KQAI-/0/1772586093553?e=1790812800&v=beta&t=WzqhvQGk0uekW0VX8_cPFTKVrG9jQ057F45hvQrt_w4";
 const LINKEDIN_URL = "https://www.linkedin.com/in/khushbookumari16/";
-const EMAIL_ADDRESS = "khushboo.kumari@example.com"; // TODO: replace with real email
-const GITHUB_URL = "https://github.com/khushbookumari"; // TODO: replace with real GitHub
+const EMAIL_ADDRESS = "kumarikhushboo1607@gmail.com"; // TODO: replace with real email
+const GITHUB_URL = "https://github.com/kumarikhushboo1607"; // TODO: replace with real GitHub
 
 const ROTATING_WORDS = [
   "intelligent systems",
