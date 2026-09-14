@@ -1,6 +1,7 @@
 import HeroSection from "../app/components/HeroSection";
 import EducationSection from "../app/components/Education";
 import ExperienceSection from "./components/Experience";
+import PublicationsSection from "./components/Publication";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
     <HeroSection />
     <EducationSection />
     <ExperienceSection />
+    <PublicationsSection />
     </>
   );
 }
